@@ -55,11 +55,11 @@ Teaching
  -->  
 <!-- Service and leadership
 ======
- -->
+ 
 
 Projects
 ======
-
+-->
 * Cognitive Load Analysis using EEG for drone flying [Aug-Dec 2018]
   * Using EEGLAB and MATLAB for processing the brain signal.
   * Mentor- Dr. A.S.Mandal, Cheif Scientist, CEERI Pilani
