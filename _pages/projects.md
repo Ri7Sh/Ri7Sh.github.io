@@ -14,18 +14,14 @@ redirect_from:
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
- -->
+ 
+
+
 
 Work experience
 ======
-* Summer 2018: Summer Intern
-  * Institute of Seismological Research, Gandhinagar
-  * Designed website and Analysed Seismic Data
-  * Automated Moment Tensor Inversion Data processing using CPS, SAC, shell scripting and PHP.
-  * Worked with MySQL, Generic Mapping Tools during the internship. 
-  * Mentor: Mr. Ketan S. Roy
 
-<!-- * Fall 2015: Research Assistant
+* Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -67,6 +63,12 @@ Projects
 * Cognitive Load Analysis using EEG for drone flying [Aug-Dec 2018]
   * Using EEGLAB and MATLAB for processing the brain signal.
   * Mentor- Dr. A.S.Mandal, Cheif Scientist, CEERI Pilani
+
+* Summer Intern, Institute of Seismological Research, Gandhinagar
+  * Designed website and Analysed Seismic Data
+  * Automated Moment Tensor Inversion Data processing using CPS, SAC, shell scripting and PHP.
+  * Worked with MySQL, Generic Mapping Tools during the internship. 
+  * Mentor: Mr. Ketan S. Roy
 
 * Early Prediction of Heart Attack using Data Mining techniques[Jan-May 2018]
   * https://github.com/Ri7Sh/Heart-Disease-Prediction
