@@ -63,18 +63,21 @@ Projects
 * Cognitive Load Analysis using EEG for drone flying [Aug-Dec 2018]
   * Using EEGLAB and MATLAB for processing the brain signal.
   * Mentor- Dr. A.S.Mandal, Cheif Scientist, CEERI Pilani
+  
 
 * Summer Intern, Institute of Seismological Research, Gandhinagar
   * Designed website and Analysed Seismic Data
   * Automated Moment Tensor Inversion Data processing using CPS, SAC, shell scripting and PHP.
   * Worked with MySQL, Generic Mapping Tools during the internship. 
   * Mentor: Mr. Ketan S. Roy
+  
 
 * Early Prediction of Heart Attack using Data Mining techniques[Jan-May 2018]
   * https://github.com/Ri7Sh/Heart-Disease-Prediction
   * Implemented the original research paper by Vikas Chaurasia
   * Used python librabries to implement ID3, CART, Random Forest Ensemble techniques.
   * Mentor - Dr. Yashwardhan Sharma, BITS Pilani
+  
 
 
 Informal Projects
@@ -84,6 +87,7 @@ Informal Projects
   * https://github.com/Ri7Sh/checkmate_apogee
   * Quizzing event conducted during APOGEE 2018 by ACMW BITS Pilani student chapter.
   * Worked on Django Framework.
+  
 
 
 * Deal with Distractions [January-February 2017]
