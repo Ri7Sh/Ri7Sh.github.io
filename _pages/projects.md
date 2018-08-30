@@ -15,6 +15,7 @@ redirect_from:
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
  -->
+
 Work experience
 ======
 * Summer 2018: Summer Intern
