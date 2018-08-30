@@ -19,8 +19,8 @@ Work experience
 ======
 * Summer 2018: Summer Intern
   * Institute of Seismological Research, Gandhinagar
-  * Designing website and Analysing Earthquake Data
-  *Automated Moment Tensor Inversion Data processing using CPS, SAC, shell scripting and PHP.
+  * Designed website and Analysed Seismic Data
+  * Automated Moment Tensor Inversion Data processing using CPS, SAC, shell scripting and PHP.
   * Worked with MySQL, Generic Mapping Tools during the internship. 
   * Mentor: Mr. Ketan S. Roy
 
@@ -63,20 +63,28 @@ Teaching
 Projects
 ======
 
-*Cognitive Load Analysis using EEG for drone flying [Aug-Dec 2018]
-	*Using EEGLAB and MATLAB for processing the brain signal.
-	*Mentor- Dr. A.S.Mandal, Cheif Scientist, CEERI Pilani
+* Cognitive Load Analysis using EEG for drone flying [Aug-Dec 2018]
+  * Using EEGLAB and MATLAB for processing the brain signal.
+  * Mentor- Dr. A.S.Mandal, Cheif Scientist, CEERI Pilani
 
-*Early Prediction of Heart Attack using Data Mining techniques
-	*Implemented the original research paper by Vikas Chaurasia.
-	*Used python librabries to implement ID3, CART, Random Forest Ensembler techniques.
-	*Mentor - Dr. Yashwardhan Sharma, BITS Pilani
+* Early Prediction of Heart Attack using Data Mining techniques[Jan-May 2018]
+  * https://github.com/Ri7Sh/Heart-Disease-Prediction
+  * Implemented the original research paper by Vikas Chaurasia
+  * Used python librabries to implement ID3, CART, Random Forest Ensemble techniques.
+  * Mentor - Dr. Yashwardhan Sharma, BITS Pilani
 
 
 Informal Projects
 ======
 
-*Checkmate 
-	*Quizzing competitive event conducted during APOGEE 2018.
-	*Worked on Django Framework.
+* Checkmate[January-February 2018]
+  * https://github.com/Ri7Sh/checkmate_apogee
+  * Quizzing event conducted during APOGEE 2018 by ACMW BITS Pilani student chapter.
+  * Worked on Django Framework.
+
+
+* Deal with Distractions [January-February 2017]
+  * https://github.com/Ri7Sh/Deal-with-distractions
+  * ACMW BITS Pilani student chapter quizzing event
+  * Using Javascript and Django framework to create the web application
 
