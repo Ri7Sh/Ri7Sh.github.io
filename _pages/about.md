@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm Rigvita Sharma, Junior Year B.E.(Hons.) Computer Science student at Birla Institute of Technology and Science, Pilani(BITS Pilani). 
-Through my coursework and projects, I have learned various aspects of computer science. My course and personnal projects gave me an opportunity to apply them in different fields with real life utility ranging from seismology to neuroscience to arts. I have also volunteered for teaching computer skills to villagers. 
+I'm Rigvita Sharma, Final Year B.E.(Hons.) Computer Science student at Birla Institute of Technology and Science, Pilani(BITS Pilani). 
 
-Currently, I am serving as the Chair for BITS ACMW Chapter for current academic year. We mentor girls on campus to have a career in computer science by engaging them in workshops and team projects.
+I love exploring new things through my coursework and projects. This has helped me to learn various aspects of computer science, giving me opportunity to touch different fields with my code ranging from seismology to neuroscience to arts. 
+
+Other than that, I have also spent my time volunteering in Pilani to teach computer skills to villagers. I have also served as the Chair for BITS ACMW Chapter for academic year 2018-19. Where I mentored girls on campus to have a career in computer science by engaging them in workshops and team projects.
 
 
 
