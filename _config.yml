@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rigvita Sharma"
 title_separator          : "-"
 name                     : &name "Rigvita Sharma"
-description              : &description "Third Year Student"
+description              : &description "Final Year Student"
 url                      : https://ri7sh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ri7Sh/Ri7Sh.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Rigvita Sharma"
   avatar           : "Rigvita.jpeg"
-  bio              : "Junior Year Undergraduate Student"
+  bio              : "Final Year Undergraduate Student"
   location         : "BITS Pilani, Rajasthan"
   employer         :
   googlescholar    : 
