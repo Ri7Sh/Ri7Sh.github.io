@@ -53,8 +53,18 @@ Teaching
 
 Work experience
 ======
+* Decision Science Intern, Flipkart, Bangalore [Jan 2020 - Present]
+  * Utilised demand forecasting techniques to analyse the Flipkart sales data. 
+  * Improved the forecasting by reducing the error by ~20% from old model.
+  * Worked on regression models, moving average - exponential smoothing techniques.
 
-* Summer Intern, Institute of Seismological Research, Gandhinagar
+
+* Software Development Intern, JP Morgan Chase & Co., Mumbai [May 2019 - July 2019]
+  * Worked on onboarding a monolithic application to the private cloud using Kubernetes Platform. 
+  * Configured the application to communicate with external database and authentication tool.
+  
+  
+* Summer Intern, Institute of Seismological Research, Gandhinagar [May 2018 - July 2018]
   * Designed website and Analysed Seismic Data
   * Automated Moment Tensor Inversion Data processing using CPS, SAC, shell scripting and PHP.
   * Worked with MySQL, Generic Mapping Tools during the internship. 
@@ -64,18 +74,23 @@ Work experience
 
 Projects
 ======
+* Application of variants of GANs in image-to-image translation [Aug 2019 - Dec 2019]
+  * Utilised and implemented various architecture- CGAN, Pix2Pix, StyleGAN for image-to-image translation. 
+  * Compared the results on different datasets - MNIST, facades.
+  
+  
 * Automating robot navigation using reinforcement learning [Jan-May 2019]
-	* Processing RGBD-Image dataset to train the model.
+  * Processing RGBD-Image dataset to train the model.
   * Working with ROS and gazebo to test algorithm.
   * Mentor- Dr. J.L.Raheja, Cheif Scientist, CEERI Pilani
   
 
 * Ethinicity Recognition [Aug-Dec 2018]
   * Course project for BITS Pilani, Machine Learning Course
-	* Compared machine learning and deep learning techniques for recognising ethinicity by face detection.
+  * Compared machine learning and deep learning techniques for recognising ethinicity by face detection.
 
   
-* Leaf Classification using PNN[Aug-Dec 2018]
+* Leaf Classification using PNN [Aug-Dec 2018]
   * Compared various classification techniques with Probabilistic Neural Network
   * Used various image processing techniques.
   * Course Project for BITS Pilani, Neural Network and Fuzzy Logics Course
@@ -83,11 +98,11 @@ Projects
 
 * Cognitive Load Analysis using EEG [Aug-Dec 2018]
   * Used EEGLAB and mne-python for processing the brain signal.
-	* Used SVM to predict low and high stress levels.
+  * Used SVM to predict low and high stress levels.
   * Mentor- Dr. A.S.Mandal, Cheif Scientist, CEERI Pilani
   
 
-* Early Prediction of Heart Attack using Data Mining techniques[Jan-May 2018]
+* Early Prediction of Heart Attack using Data Mining techniques [Jan-May 2018]
   * https://github.com/Ri7Sh/Heart-Disease-Prediction
   * Implemented the original research paper by Vikas Chaurasia
   * Used python librabries to implement ID3, CART, Random Forest Ensemble techniques.
